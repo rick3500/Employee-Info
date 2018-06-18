@@ -4,11 +4,10 @@ using System.Text;
 
 namespace EmployeeInfoProject
 {
+    //Impliments IEmployee properties and method for hourly employees
     public class Hourly : IEmployee
     {
-        public string Status { get; set; }
-        public int Eid { get; set; }
-
+        public int EID { get; set; }
         public string FirstName { get ; set ; }
         public string LastName { get ; set; }
         public string Email { get; set; }

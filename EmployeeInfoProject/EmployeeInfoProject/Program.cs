@@ -7,6 +7,7 @@ namespace EmployeeInfoProject
     {
         static void Main(string[] args)
         {
+            //Calls the EmployeeInfo class to run the employee data requested
             EmployeeInfo ei = new EmployeeInfo();
 
             ei.MyList();

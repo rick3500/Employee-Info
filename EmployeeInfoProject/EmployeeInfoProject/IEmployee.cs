@@ -4,10 +4,10 @@ using System.Text;
 
 namespace EmployeeInfoProject
 {
+    //Basic Employee Info that can be implimented by muliple classes class in differnt ways
     public interface IEmployee
     {
-        int Eid { get; set; }
-        string Status { get; set; }
+        int EID { get; set; }
         string FirstName { get; set; }
         string LastName { get; set; }
         string Email { get; set; }

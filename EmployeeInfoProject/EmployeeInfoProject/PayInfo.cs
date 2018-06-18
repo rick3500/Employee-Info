@@ -6,6 +6,9 @@ namespace EmployeeInfoProject
 {
     public class PayInfo
     {
+        /*Method returns individual pay rate matching employee ID passed in,
+         back to the GetPay method of EmployeeInfo class*/
+
         public decimal MyPayInfo(int Eid)
         {
             decimal myPay;
