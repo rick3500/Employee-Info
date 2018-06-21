@@ -664,27 +664,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gary0958\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\simmr029\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gary0958\\Source\\Repos\\EmployeeInfoProject\\EmployeeInfoProject\\EmployeeInfoProject.csproj",
+      "projectUniqueName": "C:\\Users\\simmr029\\Source\\Gary\\EmployeeInfoProject\\EmployeeInfoProject\\EmployeeInfoProject.csproj",
       "projectName": "EmployeeInfoProject",
-      "projectPath": "C:\\Users\\Gary0958\\Source\\Repos\\EmployeeInfoProject\\EmployeeInfoProject\\EmployeeInfoProject.csproj",
-      "packagesPath": "C:\\Users\\Gary0958\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gary0958\\Source\\Repos\\EmployeeInfoProject\\EmployeeInfoProject\\obj\\",
+      "projectPath": "C:\\Users\\simmr029\\Source\\Gary\\EmployeeInfoProject\\EmployeeInfoProject\\EmployeeInfoProject.csproj",
+      "packagesPath": "C:\\Users\\simmr029\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\simmr029\\Source\\Gary\\EmployeeInfoProject\\EmployeeInfoProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gary0958\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\simmr029\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

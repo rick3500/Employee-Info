@@ -9,3 +9,14 @@ C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug
 C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.dll
 C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.pdb
 C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.csprojResolveAssemblyReference.cache
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.deps.json
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.runtimeconfig.json
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.runtimeconfig.dev.json
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.dll
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.pdb
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.csprojAssemblyReference.cache
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.csproj.CoreCompileInputs.cache
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.AssemblyInfoInputs.cache
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.AssemblyInfo.cs
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.dll
+C:\Users\simmr029\Source\Gary\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.pdb
