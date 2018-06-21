@@ -14,7 +14,7 @@ namespace AlternateSociety
             Interface.IPerson flo = new Model.DenMother("Florence", "Henderson");
 
             // finish this or some other 
-            //MakeASpaceMan(apolo);
+            //MakeASpaceMan(apollo);
 
 
 
