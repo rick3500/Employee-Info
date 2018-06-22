@@ -26,7 +26,7 @@ namespace AlternateSociety.Model
 
         public string Awakens()
         {
-            return "Yawns";
+            return "Awakens, Yawns and ";
         }
         public virtual string Speaks(string words)
         {

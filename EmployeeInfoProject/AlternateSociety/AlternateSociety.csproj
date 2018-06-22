@@ -42,10 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Factory\ServiceFactory.cs" />
     <Compile Include="Interface\IPerson.cs" />
     <Compile Include="Model\BasePerson.cs" />
     <Compile Include="Model\DenMother.cs" />
+    <Compile Include="Model\Person.cs" />
     <Compile Include="Model\RaceCarDriver.cs" />
+    <Compile Include="Model\RocketMan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -54,6 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Comments.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Service\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
